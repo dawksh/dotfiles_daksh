@@ -1,0 +1,10 @@
+color = ''
+project-name = 'default'
+
+[default]
+account_id = 'acct_1RgTtNBMM9SAnGH6'
+device_name = 'Dakshs-MacBook-Pro.local'
+display_name = 'New business sandbox'
+test_mode_api_key = 'sk_test_51RgTtNBMM9SAnGH6d2ukV83G78nLg33vyvjxgoVakzjdhD2p1cNUYg6Ww3qdoIHZLwOxPuvnqlKyyxlVGLAOc5Jd00yVeQXOAs'
+test_mode_key_expires_at = '2025-10-02'
+test_mode_pub_key = 'pk_test_51RgTtNBMM9SAnGH66VFbUklBKYctJEnRWkXy1gOwwqoQRi5B5j8KQ3ZwQdbG2lxJ2nOkX1dHANiW0AIrKO8TCI7Z001GMTOFvw'
